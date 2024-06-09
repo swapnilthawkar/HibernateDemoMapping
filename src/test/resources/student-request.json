@@ -1,0 +1,10 @@
+{
+    "studName":"Rahul",
+    "rollNum":"12234",
+    "listLaptop":
+    [
+        {
+            "lapModel":"Acer"
+        }
+    ]
+}
